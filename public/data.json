@@ -1,0 +1,33 @@
+{
+  "apps": [
+    {
+      "name": "App1",
+      "option": "Option1",
+      "src": "/Images/Diary.png"
+    },
+    {
+      "name": "App2",
+      "option": "Option2",
+      "src": "/Images/Calender.png"
+    },
+    {
+      "name": "App3",
+      "option": "Option3",
+      "src": "/Images/GoogleChrome.png"
+    },
+    {
+      "name": "App3",
+      "option": "Option3",
+      "src": "/Images/EmptyBin.png"
+    }
+  ],
+  "list": [
+    {
+      "name": "Add Folder"
+    },
+    {
+      "name": "Add File",
+      "submenu": ["Word", "Excel", "PowerPoint"]
+    }
+  ]
+}
